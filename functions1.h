@@ -1,1 +1,1 @@
-int GCD(int a, int b);
+int GCD_rec(int a, int b);
